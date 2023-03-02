@@ -5,12 +5,9 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NikoStephensIT/osTicket-Prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/NikoStephensIT/osTicketPostConfiguration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/NikoStephensIT/osTicket-LifeCycle-Examples)
+
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NikoStephensIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NikoStephensIT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
-  - [Network File Shares and Permissions](https://github.com/NikoStephensIT/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/NikoStephensIT/Building-Intuition-for-DNS)
 
 <h2>🤳Connect with me:</h2>
 
