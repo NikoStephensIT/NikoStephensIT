@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/NikoStephensIT/osTicket-post-config)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NikoStephensIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NikoStephensIT/On-Premises-AD-Lab)
 
 <h2>🤳Connect with me:</h2>
 
